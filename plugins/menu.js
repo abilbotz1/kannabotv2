@@ -280,7 +280,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
+  footer: '📮 *Note:* ᴊɪᴋᴀ ᴍᴇɴᴇᴍᴜᴋᴀɴ ʙᴜɢ ᴀᴛᴀᴜ ᴇʀʀᴏʀ ʜᴀʀᴀᴘ ʟᴀᴘᴏʀ ᴋᴇ ᴏᴡɴᴇʀ',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `CLICK HERE ⎙`,
@@ -498,25 +498,25 @@ const listMessage = {
                 },
                 {
                     urlButton: {
-                        displayText: 'Group Official',
+                        displayText: 'Group Official🤖',
                         url: sgc
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Owner',
+                        displayText: 'Owner🐤',
                         id: '.owner'
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Speed',
+                        displayText: 'Speed📥',
                         id: '.ping'
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Donasi',
+                        displayText: 'Donasi🏮',
                         id: '.donasi'
                     }
                 },
