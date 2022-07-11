@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/Rielgans12'
-global.sgh = 'https://github.com/Rieltod'
-global.sgc = 'https://chat.whatsapp.com/L0f0zjXFcBLINqJkuqOZDJ'
+global.sig = 'https://www.instagram.com/Farhanbot123'
+global.sgh = 'https://github.com/'
+global.sgc = 'https://chat.whatsapp.com/CU0NIekiHQzCm5H2qUP1Lx'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '083813417529 [Axis]'
-global.ppulsa2 = '083813417529 [Axis]'
+global.pdana = '+62 882-0064-85504'
+global.povo = '+62 882-0064-85504'
+global.pgopay = '+62 882-0064-85504'
+global.ppulsa = '+62 882-0064-85504'
+global.ppulsa2 = '+62 882-0064-85504'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283112471048'
-global.nomorown = '6282146218274'
-global.namebot = '𝗥𝗜𝗘𝗟𝗕𝗢𝗧𝗭-𝗠𝗱'
-global.nameown = 'OWNER RIELBOTZ'
+global.nomorbot = '6283185729856'
+global.nomorown = '62882006485504'
+global.namebot = '𝙁𝘼𝙍𝙃𝘼𝙉𝘽𝙊𝙏𝙕 -𝙈𝘿'
+global.nameown = 'OWNER FARHANBOTZ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282146218274'],
-  ['6282146218274'],
-  ['6282146218274'],
-  ['6282146218274', 'OWNER RIELBOTZ', true]
+  ['62882006485504'],
+  ['62882006485504'],
+  ['62882006485504'],
+  ['62882006485504', 'OWNER FARHANBOTZ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,8 +116,8 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 𝑹𝑰𝑬𝑳𝑩𝑶𝑻𝒁-𝑴𝒅 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑹𝒊𝒆𝒍 - 𝑶𝒇𝒄˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ʀɪᴇʟ ᴏғᴄ'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑭𝒂𝒓𝒉𝒂𝒏 - 𝑶𝒇𝒄˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ғᴀʀʜᴀɴʙᴏᴛᴢ-sᴛᴏʀᴇ ᴏғᴄ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
@@ -174,7 +174,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `RIELBOTZ @2022 ⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `FARHANBOTZ @2022 ⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
