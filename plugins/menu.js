@@ -283,7 +283,7 @@ const listMessage = {
   footer: '📮 *Note:* ᴊɪᴋᴀ ᴍᴇɴᴇᴍᴜᴋᴀɴ ʙᴜɢ ᴀᴛᴀᴜ ᴇʀʀᴏʀ ʜᴀʀᴀᴘ ʟᴀᴘᴏʀ ᴋᴇ ᴏᴡɴᴇʀ',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
-  buttonText: `CLICK HERE ⎙`,
+  buttonText: `CLICK HERE`,
   sections
 }
   if (teks == '404') {
